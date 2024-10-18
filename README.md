@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptilege&label=Profile%20views&color=0e75b6&style=flat" alt="ptilege" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **rest Assured**
 
 - 👨‍💻 All of my projects are available at [https://ptilege.github.io/My-Portfolio/](https://ptilege.github.io/My-Portfolio/)
 
